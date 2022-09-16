@@ -1,0 +1,425 @@
+#main {
+    margin: 0%;
+    height: 3700px;
+    margin-left: 0px;
+
+}
+
+body {
+    background-color: darkgrey;
+}
+
+.container-fluid {
+    height: 1000px;
+}
+
+.head {
+    height: 100%;
+    width: 100%;
+    background-image: url(https://assets.nflxext.com/ffe/siteui/vlv3/701eec50-4b87-4dc0-9d00-b0f54025dc36/028e62d2-2a59-4fc3-adaa-a0756a0512b9/IN-en-20220905-popsignuptwoweeks-perspective_alpha_website_large.jpg);
+    filter: opacity(100px);
+    filter: grayscale(300px);
+    position: absolute;
+    top: 0px;
+}
+
+
+#lang-switcher-header-select {
+    height: 40px;
+    width: 120px;
+    position: absolute;
+    left: 1150px;
+    top: 20px;
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+}
+
+.btn {
+    height: 40px;
+    width: 110px;
+    position: absolute;
+    top: 20px;
+    left: 1300px;
+}
+
+.net {
+    position: absolute;
+    top: 0rem;
+}
+
+.logo {
+
+    font-size: 60px;
+    font-weight: 700;
+    position: absolute;
+    top: 20px;
+    left: 50px;
+    color: red;
+}
+
+.h1 {
+    font-weight: bold;
+    text-align: center;
+    font-size: 70px;
+    margin-top: 200px;
+    color: white
+}
+
+.h2 {
+    text-align: center;
+    font-size: 50px;
+    color: white;
+}
+
+.h4 {
+    text-align: center;
+    font-size: 30px;
+    margin-top: 35px;
+    color: white;
+}
+
+.form-control {
+    width: 600px;
+    height: 60px;
+
+}
+
+#ex3 {
+    width: 450px;
+    height: 60px;
+    margin-top: 20px;
+    margin-left: 400px;
+
+
+}
+
+.btn1 {
+    height: 60px;
+    width: 200px;
+    background-color: #e50914;
+    margin-right: 10px;
+}
+
+.next {
+    background-color: black;
+    height: 600px;
+    width: 1520px;
+    margin-top: 743px;
+}
+
+
+
+
+
+.enjoy {
+    color: white;
+    font-weight: bold;
+    font-size: 45px;
+    margin-left: 200px;
+    padding-top: 160px;
+}
+
+.enjoy2 {
+    color: white;
+    margin-left: 200px;
+    margin-top: 40px;
+    font-size: 25px;
+}
+
+.next2 {
+    background-color: black;
+    height: 600px;
+    width: 1520px;
+    margin-top: 5px;
+
+}
+
+.down {
+    color: white;
+    font-weight: bold;
+    font-size: 45px;
+    margin-left: 700px;
+    padding-top: 180px;
+}
+
+.down2 {
+    color: white;
+    margin-left: 700px;
+    margin-top: 40px;
+    font-size: 25px;
+}
+
+.next3 {
+    background-color: black;
+    height: 600px;
+    width: 1520px;
+    margin-top: 5px;
+}
+
+.watch {
+    color: white;
+    font-weight: bold;
+    font-size: 45px;
+    margin-left: 200px;
+    padding-top: 150px;
+}
+
+.watch2 {
+    color: white;
+    margin-left: 200px;
+    margin-top: 40px;
+    font-size: 25px;
+}
+
+.next4 {
+    background-color: black;
+    height: 600px;
+    width: 1520px;
+    margin-top: 5px;
+}
+
+.child {
+    color: white;
+    font-weight: bold;
+    font-size: 45px;
+    margin-left: 700px;
+    padding-top: 180px;
+
+}
+
+.child2 {
+    color: white;
+    margin-left: 700px;
+    margin-top: 40px;
+    font-size: 25px;
+}
+
+.childimg {
+    height: 400px;
+    width: 400px;
+    position: absolute;
+    top: 2650px;
+    left: 180px;
+}
+
+.tv1 {
+    height: 450px;
+    width: 580px;
+    position: absolute;
+    top: 800px;
+    left: 800px;
+}
+
+.our-story-card-video {
+    height: 230px;
+    width: 590px;
+    position: absolute;
+    left: 790px;
+    top: 895px;
+}
+
+.our-story-card-img {
+    height: 300px;
+    width: 550px;
+    position: absolute;
+    top: 1430px;
+    left: 100px;
+}
+
+.phone {
+    height: 100px;
+    width: 350px;
+    background-color: white;
+    position: absolute;
+    top: 1700px;
+    left: 200px;
+    background-color: darkgrey;
+    border-radius: 10px;
+
+}
+
+.innerphone {
+    background-color: black;
+    height: 96px;
+    width: 346px;
+    position: absolute;
+    top: 1702px;
+    left: 202px;
+    border-radius: 10px;
+}
+
+.stranger {
+    height: 80px;
+    width: 70px;
+    margin-left: 4px;
+}
+
+.strangertext {
+    color: white;
+    position: absolute;
+    top: 30px;
+    left: 120px;
+}
+
+.download {
+    color: blue;
+    position: absolute;
+    top: 55px;
+    left: 120px;
+}
+
+.icon {
+    color: white;
+}
+
+.bi {
+    font-size: 100px;
+}
+
+.our-story-card-video2 {
+    height: 230px;
+    width: 590px;
+    position: absolute;
+    top: 2050px;
+    left: 790px;
+}
+
+.monitor {
+    height: 400px;
+    width: 650px;
+    position: absolute;
+    top: 2000px;
+    left: 760px;
+}
+
+.next5 {
+    background-color: black;
+    height: 900px;
+    width: 1520px;
+    margin-top: 5px;
+}
+
+.faq {
+    color: white;
+    text-align: center;
+    padding-top: 100px;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.what-is {
+    height: 60px;
+    width: 800px;
+    background-color: rgb(89, 89, 89);
+    margin-left: 350px;
+    margin-top: 20px;
+}
+
+.box1 {
+    color: white;
+    font-size: 25px;
+    letter-spacing: 1px;
+    padding-top: 10px;
+    padding-left: 30px;
+
+
+}
+
+.plus {
+    color: white;
+    margin-top: -50px;
+    text-align: end;
+    margin-right: 20px;
+    font-size: 50px;
+}
+
+.ready {
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    margin-top: 50px;
+}
+
+
+#next6 {
+    background-color: black;
+    height: 400px;
+    width: 1520px;
+    margin-top: 5px;
+}
+
+.footer {
+    color: #737373;
+    margin-left: 250px;
+    padding-top: 50px;
+    font-size: 20px;
+}
+
+.footer1 {
+    color: #737373;
+    margin-left: 250px;
+    padding-top: 10px;
+    font-size: 15px;
+}
+
+
+#lang-switcher-header-select2 {
+    height: 40px;
+    width: 120px;
+    position: absolute;
+    left: 270px;
+    top: 4360px;
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+}
+
+.footer11 {
+    color: #737373;
+    margin-left: 250px;
+    padding-top: 70px;
+    font-size: 15px;
+}
+
+.footer2 {
+    margin-top: -288px;
+    margin-left: 450px;
+    color: #737373;
+}
+
+.footer3 {
+    margin-top: 0px;
+    margin-left: 450px;
+    color: #737373;
+}
+
+.footer3 {
+    margin-top: 0px;
+    margin-left: 450px;
+    color: #737373;
+}
+
+.footer4 {
+    margin-top: -160px;
+    margin-left: 680px;
+    color: #737373;
+}
+
+.footer5 {
+    margin-top: 0px;
+    margin-left: 680px;
+    color: #737373;
+}
+
+.footer6 {
+    margin-top: -160px;
+    margin-left: 920px;
+    color: #737373;
+}
+
+.footer7 {
+    margin-top: 0px;
+    margin-left: 920px;
+    color: #737373;
+}

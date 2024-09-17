@@ -1,4 +1,4 @@
 # Netflix-clone
 
 
-stack : html and Css
+stack : html and CSS
